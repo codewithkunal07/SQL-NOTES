@@ -57,6 +57,5 @@ ds.kunal.rajput@gmail.com
 ---
 
 ![SQL Sticker](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql)  
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YourGitHubUsername/YourRepoName?style=for-the-badge)  
-![License](https://img.shields.io/github/license/YourGitHubUsername/YourRepoName?style=for-the-badge)
+
 
