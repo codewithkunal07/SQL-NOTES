@@ -17,7 +17,7 @@ Ye notes maine khud likhe hain, jisme main basic se advanced SQL topics cover ka
 - 🔹 **Subqueries & Nested Queries**  
 - 🔹 **Database Design Basics**  
 - 🔹 **Indexes & Performance Tips**  
-- 🔹 **Transactions & ACID Properties*
+- 🔹 **Transactions & ACID Properties
 
 ---
 
